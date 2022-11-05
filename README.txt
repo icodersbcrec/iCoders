@@ -1,1 +1,1 @@
-hello everyone, thisis the official website for icoders
+hello everyone, this is the official website for icoders
